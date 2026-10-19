@@ -1,0 +1,525 @@
+group,StoryNum,StoryName,OrderInStory,ItemType,Sentence,Question,Correct,Wrong,QNum
+A,1,Boar,1,sentence,"If you were to journey to the North of England, you would come to a valley that is surrounded by moors as high as mountains.",NA,NA,NA,NA
+A,1,Boar,2,sentence,"It is in this valley where you would find the city of Bradford, where once a thousand spinning-jennies that hummed and clattered spun wool into money for the long-bearded mill owners.",NA,NA,NA,NA
+A,1,Boar,3,sentence,"That all mill owners were generally busy as beavers and quite pleased with themselves for being so successful and well off was known to the residents of Bradford, and if you were to go into the city to visit the stately City Hall, you would see there the Crest of the City of Bradford, which those same mill-owners created to celebrate their achievements.",NA,NA,NA,NA
+A,1,Boar,4,sentence,"It shows a sinister looking boar's head sitting on top of a well which seems puzzling at first, but the reason for this symbol is a matter of legend.",NA,NA,NA,NA
+A,1,Boar,5,sentence,"There was once, legend has it, a fearsome boar, which lived in a wood located just outside the manor of Bradford.",NA,NA,NA,NA
+A,1,Boar,6,sentence,"A source of great trouble to the local folk the boar was, bringing terror to the peaceful flocks and ravaging the countryside around.",NA,NA,NA,NA
+A,1,Boar,7,sentence,"Even worse, however, the boar most liked to go to the well that was in the wood and drink its fresh water, so that the people of Bradford had second thoughts about visiting the well.",NA,NA,NA,NA
+A,1,Boar,8,sentence,That the people of Bradford bore the brunt of the beast’s ferocity was unfair in the eyes of the people of the region.,NA,NA,NA,NA
+A,1,Boar,9,sentence,"Eventually, the issue reached the ears of the kindly Lord of the Manor who the people had often asked for help.",NA,NA,NA,NA
+A,1,Boar,10,sentence,The Lord saw the severity of the problem the people faced and suggested a contest could solve the problem.,NA,NA,NA,NA
+A,1,Boar,11,sentence,"He said that whoever could kill the boar and bring as proof its head to the Manor House, would be rewarded with land and fame.",NA,NA,NA,NA
+A,1,Boar,12,sentence,It was the people of Bradford and the people who knew them who rejoiced at this proclamation but one question remained: who would kill the boar?,NA,NA,NA,NA
+A,1,Boar,13,sentence,"By the handsome reward many felt tempted, but the thought of the boar with its deadly tusks and face like thunder soon put an end to their ambitions.",NA,NA,NA,NA
+A,1,Boar,14,sentence,"However, there was one huntsman, who was still wet behind the ears, who decided the prize was worth a shot in spite of the boar's reputation.",NA,NA,NA,NA
+A,1,Boar,15,sentence,The huntsman discovered the boar preferred to come out in the middle of the day.,NA,NA,NA,NA
+A,1,Boar,16,sentence,"So, he went to the wood by the well with his good bow, to bide his time.",NA,NA,NA,NA
+A,1,Boar,17,sentence,"Around noontime, the boar, feared by the locals, came out, as slow as a snail, from among the trees, just as the huntsman had predicted.",NA,NA,NA,NA
+A,1,Boar,18,sentence,The huntsman leaped from his hiding place and through the heart with his fine arrows shot the boar.,NA,NA,NA,NA
+A,1,Boar,19,sentence,Now the problem was no longer to kill the boar.,NA,NA,NA,NA
+A,1,Boar,20,sentence,It was to find a way to carry the boar back.,NA,NA,NA,NA
+A,1,Boar,21,sentence,"The head was too heavy for the little huntsman to carry back to the Manor House, but the huntsman, who was as quick-witted and cunning as ever, asked himself, “What else can I do to prove I killed the boar?”",NA,NA,NA,NA
+A,1,Boar,22,sentence,"The next instance he opened the boar's mouth and cut out its tongue, taking that as proof for the Lord.",NA,NA,NA,NA
+A,1,Boar,23,sentence,"He set out for the Manor House as quickly as he could and he had only been gone a few minutes when a second huntsman, not so bold as the first but a little more cunning, came on the scene.",NA,NA,NA,NA
+A,1,Boar,24,sentence,"Seeing the slain carcass of the boar, the huntsman rejoiced in his good fortune.",NA,NA,NA,NA
+A,1,Boar,25,sentence,"The second huntsman knew a shortcut to the Manor House was just around the nearby pond, and, being a bigger man than the first, was able to pick up the boar's head and carry it through the wood towards the prize that awaited him.",NA,NA,NA,NA
+A,1,Boar,26,sentence,The Lord of the Manor was seated in his hall when the second huntsman burst through the door and began to spin a line.,NA,NA,NA,NA
+A,1,Boar,27,sentence,The woes of Bradford are ended! he announced.,NA,NA,NA,NA
+A,1,Boar,28,sentence,With my own hand I have slain the boar!,NA,NA,NA,NA
+A,1,Boar,29,sentence,"And, with that, at the feet of his lord he dropped the boar's enormous head.",NA,NA,NA,NA
+A,1,Boar,30,sentence,"Then you will be rewarded, as I promised.",NA,NA,NA,NA
+A,1,Boar,31,sentence,"But first, let me examine the head of this monster, said the Lord of the Manor.",NA,NA,NA,NA
+A,1,Boar,32,sentence,To not examine the head in advance had not been very clever on the part of the huntsman.,NA,NA,NA,NA
+A,1,Boar,33,sentence,"Right away, the Lord noticed the tongue of the boar was missing and exclaimed, ""What is this?",NA,NA,NA,NA
+A,1,Boar,34,sentence,"A boar with no tongue?""",NA,NA,NA,NA
+A,1,Boar,35,sentence,"He looked at the huntsman, dubiously.",NA,NA,NA,NA
+A,1,Boar,36,sentence,How come this creature has no tongue? he demanded.,NA,NA,NA,NA
+A,1,Boar,37,sentence,All eyes were on the huntsman.,NA,NA,NA,NA
+A,1,Boar,38,sentence,"The huntsman questioned by the Lord replied, ""I cannot say, my Lord.""",NA,NA,NA,NA
+A,1,Boar,39,sentence,He was suddenly realizing his tricky situation could end badly for him.,NA,NA,NA,NA
+A,1,Boar,40,sentence,"Through the door at this moment, the first huntsman burst.",NA,NA,NA,NA
+A,1,Boar,41,sentence,The woes of Bradford are ended! he cried.,NA,NA,NA,NA
+A,1,Boar,42,sentence,I have slain the boar the people of Bradford dreaded!,NA,NA,NA,NA
+A,1,Boar,43,sentence,All eyes turned to the man who now stood in the doorway.,NA,NA,NA,NA
+A,1,Boar,44,sentence,"The reward is already given, said the Lord of the Manor.",NA,NA,NA,NA
+A,1,Boar,45,sentence,The man here has brought to me the boar's head.,NA,NA,NA,NA
+A,1,Boar,46,sentence,Then where is its tongue? the first huntsman replied.,NA,NA,NA,NA
+A,1,Boar,47,sentence,"And, so saying, he drew out the boar's tongue he had put in his hunting pouch and related how he had ambushed the creature in the wood and cut out its tongue as proof of his victory.",NA,NA,NA,NA
+A,1,Boar,48,sentence,"Listening to the tale, the Lord of the Manor tried to discern which huntsman was telling him the truth and what the two huntsmen were thinking as they waited for him to make a decision.",NA,NA,NA,NA
+A,1,Boar,49,sentence,"Almost instantly, the Lord saw that the second huntsman had fed him a pack of lies and it was the first huntsman who was the true savior of Bradford.",NA,NA,NA,NA
+A,1,Boar,50,sentence,The Lord believed the second huntsman had tried to steal the first huntsman’s prize and so proclaimed the first huntsman the true victor.,NA,NA,NA,NA
+A,1,Boar,51,sentence,The Lord wondered for a moment why he always encountered so much chicanery in his everyday interactions.,NA,NA,NA,NA
+A,1,Boar,52,sentence,"The huntsman who had earned his prize fair and square received as his reward a piece of land just outside the town, known thereafter as Hunt Yard.",NA,NA,NA,NA
+A,1,Boar,53,sentence,"His fame was indeed assured, but it was not nearly as lasting as that of the fearsome Bradford Boar.",NA,NA,NA,NA
+A,1,Boar,54,question,NA,What is depicted on the Crest of the City of Bradford?,boar's head,a spinning jenny,1
+A,1,Boar,55,question,NA,Who suggested a possible solution for the boar problem?,Lord of the Manor,the people of Bradford,2
+A,1,Boar,56,question,NA,How did the huntsman kill the boar?,using a bow and arrows,using a big knife,3
+A,1,Boar,57,question,NA,Where was the shortcut to the Manor House located?,around the pond,around the hill,4
+A,1,Boar,58,question,NA,Which huntsman was lying to the Lord of the Manor?,the one who carried the boar to the Manor House,the one who cut out the boar's tongue,5
+B,2,Aqua,1,sentence,"A clear and joyous day it was and out on the wide, open sea thousands upon thousands of sparkling water-drops excited by getting to play in the ocean danced all around.",NA,NA,NA,NA
+B,2,Aqua,2,sentence,"One of these was a merry little fellow named Aqua who danced on the silver backs of the fishes as they plunged up and down in the waves, and, no matter how high he sprung, he always came down again into his mother's lap.",NA,NA,NA,NA
+B,2,Aqua,3,sentence,"His mother, you know, was the Ocean, and very beautiful she looked that summer day in her dark blue dress and white ruffles.",NA,NA,NA,NA
+B,2,Aqua,4,sentence,"By and by, the happy water-drop tired of his play, and looking up to the clear sky above him, thought he would like to have a sail on one of the white, marshmallow-like clouds, instead of spending his whole life in the ocean.",NA,NA,NA,NA
+B,2,Aqua,5,sentence,"Of the sky, little Aqua had always been afraid, but he decided to finally face his demons and suggested a solution involving the Sun carrying him up to the sky would be ideal.",NA,NA,NA,NA
+B,2,Aqua,6,sentence,"The Sun understood Aqua’s request came from his heart, so he acquiesced and also took ever so many other drops, so that Aqua might not be lonesome on the way.",NA,NA,NA,NA
+B,2,Aqua,7,sentence,"It was only the sun that knew this, however, for all the other drops had been changed into fine mist or vapor and Aqua could not see them.",NA,NA,NA,NA
+B,2,Aqua,8,sentence,Do you know what vapor is?,NA,NA,NA,NA
+B,2,Aqua,9,sentence,"If you breathe into the air, when it is cold enough, you will see it coming out of your mouth thick and fast like steam.",NA,NA,NA,NA
+B,2,Aqua,10,sentence,"When the vapor is quite near the earth, we call it ""fog.""",NA,NA,NA,NA
+B,2,Aqua,11,sentence,Into vapor the water drops that danced in the ocean had been changed because in their own shape they were too heavy for the sunbeams that the sun let out to carry.,NA,NA,NA,NA
+B,2,Aqua,12,sentence,"Higher and higher they sailed, and though it was grand, Aqua and his friends were like fish out of water, so they grew quite dizzy.",NA,NA,NA,NA
+B,2,Aqua,13,sentence,"They enjoyed looking down on the world below, while the wind scattered them across the four corners of the earth, but after a while it grew nearly time for the Sun to go to bed.",NA,NA,NA,NA
+B,2,Aqua,14,sentence,"He became very red in the face, and began to sink lower and lower, until suddenly he went clear out of sight!",NA,NA,NA,NA
+B,2,Aqua,15,sentence,"Poor little Aqua frightened by the impending cold and darkness wished he could sleep not in the sky, but somewhere closer to earth.",NA,NA,NA,NA
+B,2,Aqua,16,sentence,"Then, Aqua heard the wind blow and conjectured that maybe the wind could take him back down to the ocean.",NA,NA,NA,NA
+B,2,Aqua,17,sentence,"Indeed, the wind took pity on him and fanned him, together with all of his brothers and sisters, into a heavy gray cloud, after which he blew them apart and told them to hurry down, fast and furious to the earth so they could have a fighting chance of reaching the ocean.",NA,NA,NA,NA
+B,2,Aqua,18,sentence,"Down they went, rolling over each other until with a patter and clatter and spatter they touched the ground, and all the people that the raindrops fell on cried, ""It’s raining"", and took out their umbrellas.",NA,NA,NA,NA
+B,2,Aqua,19,sentence,"Some of the drops that were the most fortunate, including Aqua, fell on a mountainside, and down the rocky cliff they ran.",NA,NA,NA,NA
+B,2,Aqua,20,sentence,"Together they plunged into a mountain brook, which came foaming and dashing along, leaping over rocks and rushing down the hillside, until in the valley below they heard the strangest clattering noise.",NA,NA,NA,NA
+B,2,Aqua,21,sentence,The little water-drops were then able to make out a flourmill that was standing on the bank.,NA,NA,NA,NA
+B,2,Aqua,22,sentence,"Inside the mill the water-drops saw two great stones, which the big wheel kept whizzing round and round.",NA,NA,NA,NA
+B,2,Aqua,23,sentence,"The stones smoothed by the spinning, were busy grinding the wheat into flour and the corn into golden meal.",NA,NA,NA,NA
+B,2,Aqua,24,sentence,But what giant do you suppose it was who could turn and swing that tremendous wheel?,NA,NA,NA,NA
+B,2,Aqua,25,sentence,No giant at all.,NA,NA,NA,NA
+B,2,Aqua,26,sentence,"It was just our tiny little water drops, who sprang on it by hundreds and thousands, and whirled it over and over.",NA,NA,NA,NA
+B,2,Aqua,27,sentence,It was lucky for the water-drops that the brook where they were swimming next emptied into a beautiful pond where ducks and geese were living peacefully.,NA,NA,NA,NA
+B,2,Aqua,28,sentence,"Aqua liked to play hide and seek in this pond, and it was his brother water drop who he fooled by swimming to a big pool of water and pretending to hide there, but then sneaking under a rock into an obscured little puddle.",NA,NA,NA,NA
+B,2,Aqua,29,sentence,"His brother had blatantly peaked and even followed Aqua as he entered the big pool of water, so when he searched there and could not find him, he was extremely surprised and gave up.",NA,NA,NA,NA
+B,2,Aqua,30,sentence,"Aqua liked this pond where he could play all day, so he stayed a good while, sailing up and down, taking the ducks' backs for ships and the frogs for horses, but after a time he tired of the dull life, and he and his brothers floated under a bridge for a long distance, until they saw another brook tumbling down a hillside.",NA,NA,NA,NA
+B,2,Aqua,31,sentence,"Come, let's join hands! cried Aqua and because the water drops were all together, overcoming the brook was child’s play.",NA,NA,NA,NA
+B,2,Aqua,32,sentence,"It was by the help of Aqua and his brothers that the bewitching river was able to float heavy ships, though not so long ago it was only a little stream.",NA,NA,NA,NA
+B,2,Aqua,33,sentence,"As the river grew wider and he could almost see the ocean, Aqua realized his journey was almost over and he had come full circle.",NA,NA,NA,NA
+B,2,Aqua,34,sentence,"Back in the ocean, he felt right at home.",NA,NA,NA,NA
+B,2,Aqua,35,sentence,"For him, this was the safest, sweetest place in the whole wide world.",NA,NA,NA,NA
+B,2,Aqua,36,sentence,"During the warm summer evenings, if you take a walk on the sea beach, you will hear the gentle rippling swash of the waves and some say that it must be the gurgling voices of Aqua and his brother water drops telling each other about their wonderful journey around the world.",NA,NA,NA,NA
+B,2,Aqua,37,question,NA,Who was Aqua's mother?,the ocean,the sky,1
+B,2,Aqua,38,question,NA,What did Aqua want to try?,riding on a cloud,getting to the bottom of the ocean,2
+B,2,Aqua,39,question,NA,Who took pity on Aqua when he was frightened by the cold and darkness as the Sun set?,the wind,a cloud,3
+B,2,Aqua,40,question,NA,Where did the mountain brook empty into?,a pond,a river,4
+B,2,Aqua,41,question,NA,Who did Aqua play with in the pond?,his brother,his sister,5
+C,3,Matchstick,1,sentence,"It was cold and nearly dark on the last evening of the old year, and the snow was falling fast and furious.",NA,NA,NA,NA
+C,3,Matchstick,2,sentence,A little girl no one sheltered from the gelid air roamed through the streets with a bare head and naked feet looking as poor as a church mouse.,NA,NA,NA,NA
+C,3,Matchstick,3,sentence,"It’s true she had on a pair of slippers her mother had once given her when she left home, but they were as much use to her as a chocolate teapot.",NA,NA,NA,NA
+C,3,Matchstick,4,sentence,The slippers owned by her mother were so large that the emaciated little creature had lost them while running across the street to avoid two carriages that were rolling along at a terrible rate.,NA,NA,NA,NA
+C,3,Matchstick,5,sentence,"One of the slippers she could not find, and a boy seized upon the other, saying that he could use it as a home for his little pet mouse.",NA,NA,NA,NA
+C,3,Matchstick,6,sentence,"So with her naked feet, which were quite red and blue with the cold, the little girl went on, wondering how she would get through this dreadful night.",NA,NA,NA,NA
+C,3,Matchstick,7,sentence,"She approached an old hovel she had used as a shelter a few times before, and found the entrance was locked.",NA,NA,NA,NA
+C,3,Matchstick,8,sentence,Tough luck for the girl!,NA,NA,NA,NA
+C,3,Matchstick,9,sentence,This day was even worse than the others.,NA,NA,NA,NA
+C,3,Matchstick,10,sentence,No Good Samaritan had given her even a penny.,NA,NA,NA,NA
+C,3,Matchstick,11,sentence,And she had no luck selling any matches that she carried in the old apron her grandmother had given her.,NA,NA,NA,NA
+C,3,Matchstick,12,sentence,"Poor little child, she looked the picture of misery.",NA,NA,NA,NA
+C,3,Matchstick,13,sentence,"On her long, fair hair, which hung in curls on her shoulders, the snowflakes kept landing, but she did not notice them as she shivered along.",NA,NA,NA,NA
+C,3,Matchstick,14,sentence,She was losing strength and beginning to doubt she could weather this storm.,NA,NA,NA,NA
+C,3,Matchstick,15,sentence,"It was New Year’s and the girl asked herself why as lights shone from every window, and the savory smell of roast goose crept out on the streets, she was outside all alone.",NA,NA,NA,NA
+C,3,Matchstick,16,sentence,"Exhausted, she finally sat down in a corner behind the little bakery.",NA,NA,NA,NA
+C,3,Matchstick,17,sentence,"She put a rag she had found over her legs to cover herself, but she could not keep off the cold.",NA,NA,NA,NA
+C,3,Matchstick,18,sentence,"The girl, who the night air had completely enveloped, dared not go home, for she had sold no matches.",NA,NA,NA,NA
+C,3,Matchstick,19,sentence,Her father had been mean and moody ever since his wife had gone to meet her Maker.,NA,NA,NA,NA
+C,3,Matchstick,20,sentence,"He would certainly beat her, as he has done several times in the weeks past, because she had not earned any money today.",NA,NA,NA,NA
+C,3,Matchstick,21,sentence,"Besides, it was almost as cold at home as outside, for they had only a patchy roof to cover them.",NA,NA,NA,NA
+C,3,Matchstick,22,sentence,The girl’s little hands were almost frozen solid so she decided that a burning match might be of some good.,NA,NA,NA,NA
+C,3,Matchstick,23,sentence,Scratch! sounded the match as she drew it out.,NA,NA,NA,NA
+C,3,Matchstick,24,sentence,How it sputtered as it burnt!,NA,NA,NA,NA
+C,3,Matchstick,25,sentence,"It gave a warm, candle-like bright light that the girl hid from the world as she held her hand over it.",NA,NA,NA,NA
+C,3,Matchstick,26,sentence,Why had no one wanted to buy even one match?,NA,NA,NA,NA
+C,3,Matchstick,27,sentence,"A wonderful light, it was really.",NA,NA,NA,NA
+C,3,Matchstick,28,sentence,"It seemed to the girl that she was sitting by a large iron stove, with polished brass feet and a brass ornament.",NA,NA,NA,NA
+C,3,Matchstick,29,sentence,How the fire burned!,NA,NA,NA,NA
+C,3,Matchstick,30,sentence,"The girl was pleased and the fire actually seemed so warm that the child stretched out her feet as if to warm them, when, suddenly, the flame of the match went out.",NA,NA,NA,NA
+C,3,Matchstick,31,sentence,"It was a short, stubby match that the little girl next rubbed on the wall.",NA,NA,NA,NA
+C,3,Matchstick,32,sentence,"It burst into a flame, and lo and behold, the girl was transported from her dank city to a beautiful, sunny forest.",NA,NA,NA,NA
+C,3,Matchstick,33,sentence,She heard the birds chirping and she was surrounded by wildflowers and birches as white as snow.,NA,NA,NA,NA
+C,3,Matchstick,34,sentence,A little squirrel hid some food in the ground and scurried off into the underbrush.,NA,NA,NA,NA
+C,3,Matchstick,35,sentence,"The girl was curious, so she dug some squirrel food up to see what it was, but then she forgot to put it back.",NA,NA,NA,NA
+C,3,Matchstick,36,sentence,"The squirrel came back and looked in its hiding place, but the food was nowhere to be found.",NA,NA,NA,NA
+C,3,Matchstick,37,sentence,"Then the match went out, and it wasn’t the forest that remained before her eyes.",NA,NA,NA,NA
+C,3,Matchstick,38,sentence,"It was only the thick, damp, cold wall.",NA,NA,NA,NA
+C,3,Matchstick,39,sentence,"The girl looked despondently into the sky that was now fully darkened and suddenly she saw a star fall, leaving behind it a bright streak of fire.",NA,NA,NA,NA
+C,3,Matchstick,40,sentence,"Someone is dying, thought the little girl.",NA,NA,NA,NA
+C,3,Matchstick,41,sentence,"It was her old grandmother, the one who had loved her the most, and the one who the girl used to visit every Sunday, who had told her that when a star falls, a soul leaves this earth.",NA,NA,NA,NA
+C,3,Matchstick,42,sentence,It was her last match that the little girl now rubbed on the wall and the light again shone round her.,NA,NA,NA,NA
+C,3,Matchstick,43,sentence,"Her old grandmother in the brightness stood, loving in her appearance.",NA,NA,NA,NA
+C,3,Matchstick,44,sentence,"The girl understood her grandmother would soon disappear, but she tried to play for time.",NA,NA,NA,NA
+C,3,Matchstick,45,sentence,"Grandmother, cried the little one, ""O take me with you! I know you will go away when the match burns out!""",NA,NA,NA,NA
+C,3,Matchstick,46,sentence,"The girl decided to light the whole bundle of matches, in order to keep her grandmother there.",NA,NA,NA,NA
+C,3,Matchstick,47,sentence,"The girl saw the matches glowed with a light that was brighter than the day, and her grandmother had never appeared so large or so beautiful as she did in the light of the little matches.",NA,NA,NA,NA
+C,3,Matchstick,48,sentence,"The grandmother then took the little girl in her arms, and they both flew upwards in brightness and joy far above the earth, where there was neither cold nor hunger, and the little girl felt safe and peaceful.",NA,NA,NA,NA
+C,3,Matchstick,49,sentence,"In the dawn of the morning there lay the poor little one, not frowning, but smiling and with a pale face leaning against the wall, frozen and stone dead.",NA,NA,NA,NA
+C,3,Matchstick,50,sentence,"She tried to warm herself, said some.",NA,NA,NA,NA
+C,3,Matchstick,51,sentence,Children who saw her were asking their parents why no one helped the girl who they knew looked dirt poor and helpless.,NA,NA,NA,NA
+C,3,Matchstick,52,sentence,"Passersby who saw her sitting motionless wished they could have helped the girl, but their good intentions were a day late and a dollar short.",NA,NA,NA,NA
+C,3,Matchstick,53,sentence,"Other people suspected the girl had fallen asleep and frozen, but no one imagined what beautiful things she had seen, nor into what glory she had entered with her grandmother, on New Year's day.",NA,NA,NA,NA
+C,3,Matchstick,54,question,NA,Where did the girl look for shelter initially?,an old hovel,a small church,1
+C,3,Matchstick,55,question,NA,What kind of hair did the girl have?,curly,straight,2
+C,3,Matchstick,56,question,NA,Why was the girl afraid to go home?,she didn't sell any matches,she lost her slippers,3
+C,3,Matchstick,57,question,NA,What did the girl do to warm up?,lit matches,lit a candle,4
+C,3,Matchstick,58,question,NA,"What did a falling star signify, according to the girl's grandmother?",someone's death,someone's birth,5
+D,4,King of Birds,1,sentence,"Once upon a time the birds took it into their heads that they would like a master, and that one of their number must be chosen king.",NA,NA,NA,NA
+D,4,King of Birds,2,sentence,"A meeting of all the birds was called and though they understood the birds who were from the most distant lands would be unable to come, many birds came from far away meadows and woods.",NA,NA,NA,NA
+D,4,King of Birds,3,sentence,"The eagle, who already thought himself the de facto king, arrived fashionably late.",NA,NA,NA,NA
+D,4,King of Birds,4,sentence,"It was a hawk who was most excited about the meeting, because he was the dark horse for king.",NA,NA,NA,NA
+D,4,King of Birds,5,sentence,"The small fry came too, and the robin, the bluebird, the owl, the lark, and the sparrow, who had only a chance in a million to be king, were all present at the meeting.",NA,NA,NA,NA
+D,4,King of Birds,6,sentence,"The cuckoo who was almost not invited because his call so annoyed the other birds, came too.",NA,NA,NA,NA
+D,4,King of Birds,7,sentence,"It was the very little bird who had no name at all, however that would end up overturning the balance of power among the birds.",NA,NA,NA,NA
+D,4,King of Birds,8,sentence,That there would be great confusion and noise among the birds at the meeting was to be expected given the sheer numbers of birds that have gathered.,NA,NA,NA,NA
+D,4,King of Birds,9,sentence,"There was piping, hissing, and clacking, but finally it was decided that the bird that could fly the highest should be king.",NA,NA,NA,NA
+D,4,King of Birds,10,sentence,"The little bird lay low near the eagle at first, but the eagle did not notice the bird hopping onto his back right as the competition was about to commence.",NA,NA,NA,NA
+D,4,King of Birds,11,sentence,Into the air in a great flock all the birds flew when the signal was given.,NA,NA,NA,NA
+D,4,King of Birds,12,sentence,"The air was full of dust, and it seemed as if a black cloud were floating over the field.",NA,NA,NA,NA
+D,4,King of Birds,13,sentence,You could hear the birds chirping and flapping from fields that were miles away.,NA,NA,NA,NA
+D,4,King of Birds,14,sentence,The little birds that soon grew tired fell back quickly to earth.,NA,NA,NA,NA
+D,4,King of Birds,15,sentence,"The fact that the larger ones held out longer, and flew higher and higher, but the eagle flew highest of any, surprised no one.",NA,NA,NA,NA
+D,4,King of Birds,16,sentence,Could anyone stop the eagle that seemed to be flying straight into the sun?,NA,NA,NA,NA
+D,4,King of Birds,17,sentence,"The other birds gave out one by one and when the eagle saw this he thought, ""What is the use of flying any higher?",NA,NA,NA,NA
+D,4,King of Birds,18,sentence,"This victory is in the bag and I am king!""",NA,NA,NA,NA
+D,4,King of Birds,19,sentence,"Then the birds below called with one accord, ""Come back, come back!",NA,NA,NA,NA
+D,4,King of Birds,20,sentence,"It is you who must be our king because no one can fly as high as you.""",NA,NA,NA,NA
+D,4,King of Birds,21,sentence,"Except me! cried a shrill, shrill voice, and out of the blue the little bird without a name rose from the eagle's back, where he had lain hidden in the feathers.",NA,NA,NA,NA
+D,4,King of Birds,22,sentence,His guile was the ace up his sleeve and he laughed to himself at how easy it had been to outwit the other birds.,NA,NA,NA,NA
+D,4,King of Birds,23,sentence,"Higher and higher he mounted until he was lost to sight, and then folding his wings together, he sank to earth crying shrilly, ""I am king! I am king!""",NA,NA,NA,NA
+D,4,King of Birds,24,sentence,The eagle tricked by the little bird had not sensed the bird in his feathers and so had not at all expected the bird to come flying out like that.,NA,NA,NA,NA
+D,4,King of Birds,25,sentence,The birds back on earth were all up in arms.,NA,NA,NA,NA
+D,4,King of Birds,26,sentence,"You, and not the eagle, our king!? the birds cried, fuming with anger.",NA,NA,NA,NA
+D,4,King of Birds,27,sentence,"You have done this by breaking every rule in the book, so we will not have you, who are simply tricky and cunning, to reign over us.",NA,NA,NA,NA
+D,4,King of Birds,28,sentence,"The bird without a name then decided to clear the air and said, “Then let everyone start with a clean slate and perform a new challenging task.",NA,NA,NA,NA
+D,4,King of Birds,29,sentence,Then we can decide who should be the real king.”,NA,NA,NA,NA
+D,4,King of Birds,30,sentence,"Then the birds gathered together again and decided the case would be resolved by making a new condition, which was that he should be king who could go the deepest into the earth.",NA,NA,NA,NA
+D,4,King of Birds,31,sentence,So the little bird who the other birds despised was now back to square one.,NA,NA,NA,NA
+D,4,King of Birds,32,sentence,"Confident, he remained, however, that if he played his cards right, he could be king.",NA,NA,NA,NA
+D,4,King of Birds,33,sentence,"How the goose wallowed in the sand, and the duck strove to dig a hole for the new task!",NA,NA,NA,NA
+D,4,King of Birds,34,sentence,"All the other birds tried to hide themselves in the ground, too, until they were practically blue in the face.",NA,NA,NA,NA
+D,4,King of Birds,35,sentence,"The nameless little bird that was as bold as brass found a pitch dark mouse's hole, and creeping in cried, ""I am king! I am king!"" but it was of no avail.",NA,NA,NA,NA
+D,4,King of Birds,36,sentence,"You, our king!? all the remaining birds who the littlest bird had outwitted cried again, even more angrily than before.",NA,NA,NA,NA
+D,4,King of Birds,37,sentence,Do you think we would reward your cunning in this way?,NA,NA,NA,NA
+D,4,King of Birds,38,sentence,"No, no! You shall stay in the earth till you die of hunger!",NA,NA,NA,NA
+D,4,King of Birds,39,sentence,"So they shut up the little bird in the mouse's hole that the mouse gave up most unwillingly, and bade the owl watch him carefully night and day.",NA,NA,NA,NA
+D,4,King of Birds,40,sentence,"Then all the birds went home to bed, for they were very tired, but the owl assigned by the birds to stand guard found his job was lonely and wearisome because he was just sitting alone staring at the mouse's hole.",NA,NA,NA,NA
+D,4,King of Birds,41,sentence,"I can close one eye and watch with the other, he thought.",NA,NA,NA,NA
+D,4,King of Birds,42,sentence,"So he closed one eye and stared steadfastly with the other, but before he knew it he forgot to keep that one open, and both eyes were fast asleep.",NA,NA,NA,NA
+D,4,King of Birds,43,sentence,"Then the little bird guarded by the owl peeped out, and when he saw the owl's two eyes tight shut, he slipped from the hole and flew away.",NA,NA,NA,NA
+D,4,King of Birds,44,sentence,"He wanted to shout, “I am king” so that the owl could hear him as he flew, but thought better of it.",NA,NA,NA,NA
+D,4,King of Birds,45,sentence,From this time on the owl fooled by the little bird has not dared to show himself by day for fear the birds should beat the living daylights out of him.,NA,NA,NA,NA
+D,4,King of Birds,46,sentence,"He flies about only at night-time, hating and pursuing not the bird, but the mouse for having made the hole into which the little bird crept.",NA,NA,NA,NA
+D,4,King of Birds,47,sentence,"And the little bird also keeps out of sight, for he fears that the other birds should punish him for his cunning.",NA,NA,NA,NA
+D,4,King of Birds,48,sentence,The rejection by the other birds was a bitter pill to swallow for the nameless bird the owl had let slip away.,NA,NA,NA,NA
+D,4,King of Birds,49,sentence,"He hides in the hedges, and when he thinks himself quite safe, he sings out, ""I am king! I am king!""",NA,NA,NA,NA
+D,4,King of Birds,50,sentence,"And the other birds in mockery call out, ""Yes, yes, the hedge-king! the hedge-king!""",NA,NA,NA,NA
+D,4,King of Birds,51,question,NA,Which bird thought himself the de facto king?,the eagle,the hawk,1
+D,4,King of Birds,52,question,NA,Which bird's call was annoying to the other birds?,the cuckoo,the crow,2
+D,4,King of Birds,53,question,NA,How did the little bird manage to fly higher than the eagle?,flew on eagle's back,flew right below the eagle,3
+D,4,King of Birds,54,question,NA,What was the second competition about?,digging the deepest into the earth,flying the highest,4
+D,4,King of Birds,55,question,NA,Who was put on guard to watch the little bird after he was punished for his trickery?,an owl,a mouse,5
+E,5,Elvis,1,sentence,At ten years old I could not figure out what it was that this Elvis Presley guy had that the rest of us boys did not have.,NA,NA,NA,NA
+E,5,Elvis,2,sentence,He seemed to be no different from the rest of us.,NA,NA,NA,NA
+E,5,Elvis,3,sentence,"He was simply a man who had a head, two arms and two legs.",NA,NA,NA,NA
+E,5,Elvis,4,sentence,It must have been something pretty superlative that he had hidden away because he had every young girl at the orphanage wrapped around his little finger.,NA,NA,NA,NA
+E,5,Elvis,5,sentence,"At about nine o'clock on Saturday morning, I figured a good solution was to ask Eugene Correthers, who was one of the older and smarter boys, what it was that made this Elvis guy so special.",NA,NA,NA,NA
+E,5,Elvis,6,sentence,"He told me that it was not anything about Elvis’s personality, but his wavy hair, and the way he moved his body.",NA,NA,NA,NA
+E,5,Elvis,7,sentence,"About a half an hour later, the boys in the orphanage called down to the main dining room by the matron were told that they were all going to downtown Jacksonville, Florida to get a new pair of Buster Brown shoes and a hair cut.",NA,NA,NA,NA
+E,5,Elvis,8,sentence,"That is when I got this big idea, which hit me like a ton of bricks.",NA,NA,NA,NA
+E,5,Elvis,9,sentence,"If the Elvis haircut was the big secret, then Elvis’s haircut I was going to get.",NA,NA,NA,NA
+E,5,Elvis,10,sentence,"I was going to have my day in the sun, and all the way to town that was all I talked about.",NA,NA,NA,NA
+E,5,Elvis,11,sentence,"The fact that I was getting an Elvis haircut, not just the simple fact that we were getting out of the orphanage, made me particularly loquacious.",NA,NA,NA,NA
+E,5,Elvis,12,sentence,"I told everybody, including the orphanage matron I normally feared, that I was going to look just like Elvis Presley and that I would learn to move around just like he did and that I would be rich and famous one day, just like him.",NA,NA,NA,NA
+E,5,Elvis,13,sentence,The matron understood my idea was something that I was really excited about and said nothing.,NA,NA,NA,NA
+E,5,Elvis,14,sentence,"When I got my new Buster Brown shoes, I was smiling from ear to ear.",NA,NA,NA,NA
+E,5,Elvis,15,sentence,"Those shoes, they shined really brightly, and I liked looking at the bones in my feet, which I had never seen before, through a special x-ray machine they had in the shoe store that made the bones in your feet look green.",NA,NA,NA,NA
+E,5,Elvis,16,sentence,"I was now almost ready to go back to the orphanage and practice being like the man who all the girls loved, since I had my new Buster Brown shoes.",NA,NA,NA,NA
+E,5,Elvis,17,sentence,"It was the new haircut, though, that I needed to complete my new look.",NA,NA,NA,NA
+E,5,Elvis,18,sentence,"We finally arrived at the unassuming, unembellished barbershop, where they cut our hair for free because we were orphans.",NA,NA,NA,NA
+E,5,Elvis,19,sentence,"Even though we were supposed to slowly wait to be called, I ran straight up to one of the barber chairs and climbed up onto the board the barber placed across the arms to make me sit up higher.",NA,NA,NA,NA
+E,5,Elvis,20,sentence,"I looked at the man and said, with a beaming smile on my face, ""I want an Elvis haircut.",NA,NA,NA,NA
+E,5,Elvis,21,sentence,"Can you make my hair like Elvis’s?"" I asked.",NA,NA,NA,NA
+E,5,Elvis,22,sentence,"The barber, who was a genial young man, grinned back at me and said that he would try his best.",NA,NA,NA,NA
+E,5,Elvis,23,sentence,"I was so happy when he started to cut my hair, but just as he started to cut, the matron, who had been watching me and had a look as cold as ice, motioned for him to come over to where she was standing.",NA,NA,NA,NA
+E,5,Elvis,24,sentence,"She whispered something into his ear that caused the barber to shake his head, like he was telling her, ""No"".",NA,NA,NA,NA
+E,5,Elvis,25,sentence,"In response, the matron walked over to a little man sitting in an office chair that squeaked as it rolled around the floor and spoke to him.",NA,NA,NA,NA
+E,5,Elvis,26,sentence,It was the little man who then walked over and said something to the man who was cutting my hair.,NA,NA,NA,NA
+E,5,Elvis,27,sentence,"The next thing I knew, the man who was cutting my hair told me that he was no longer allowed to give me an Elvis cut.",NA,NA,NA,NA
+E,5,Elvis,28,sentence,“Why not?” I cried desperately.,NA,NA,NA,NA
+E,5,Elvis,29,sentence,"The kindly barber stopped by the matron did not answer, but from his expression, I could tell that he wished he could cut it as I had asked.",NA,NA,NA,NA
+E,5,Elvis,30,sentence,"Within a few minutes, it wasn’t an Elvis haircut, but a short buzz cut that the barber had given me.",NA,NA,NA,NA
+E,5,Elvis,31,sentence,"When he finished shaving off all my hair and made me smell real good with his powder, the barber handed me a nickel and told me to go outside to the snack machine and buy myself a candy bar.",NA,NA,NA,NA
+E,5,Elvis,32,sentence,I handed him the nickel back and told him that I was not hungry.,NA,NA,NA,NA
+E,5,Elvis,33,sentence,"I'm so sorry, baby, he said, as I climbed out of his barber chair.",NA,NA,NA,NA
+E,5,Elvis,34,sentence,"I am not a baby, I said, as I wiped the tears from my eyes.",NA,NA,NA,NA
+E,5,Elvis,35,sentence,I then sat down on the floor and brushed away the hair that had accumulated on my shiny new Buster Brown shoes.,NA,NA,NA,NA
+E,5,Elvis,36,sentence,"My head was no longer in the clouds, and I got up off the floor, brushed off my short pants, and walked sullenly towards the door.",NA,NA,NA,NA
+E,5,Elvis,37,sentence,The matron was smiling at me sort of funny like.,NA,NA,NA,NA
+E,5,Elvis,38,sentence,"The barber upset by the matron said to her, ""You are just a damn bitch, lady.""",NA,NA,NA,NA
+E,5,Elvis,39,sentence,"She yelled back at him at the top of her lungs, before walking toward the office, as fast as she could.",NA,NA,NA,NA
+E,5,Elvis,40,sentence,"To show his anger, the man hit the wall with his hand and then walked outside where he stood against the brick wall, smoking a cigarette.",NA,NA,NA,NA
+E,5,Elvis,41,sentence,I understood right there my haircut was something that had been out of the power of the barber and then I slowly walked outside to join the man.,NA,NA,NA,NA
+E,5,Elvis,42,sentence,"He looked down, smiled at me, and then he patted me on the top of my bald as a coot head.",NA,NA,NA,NA
+E,5,Elvis,43,sentence,It was a fact of my life that I was not gonna have hair that was anything like Elvis’s anytime soon.,NA,NA,NA,NA
+E,5,Elvis,44,sentence,"I then looked up at the barber with my wet red eyes and asked, ""Do you know if Elvis Presley has green bones?""",NA,NA,NA,NA
+E,5,Elvis,45,question,NA,Why was the boy interested in Elvis?,girls at the orphanage liked Elvis,Elvis had a lot of money,1
+E,5,Elvis,46,question,NA,"What made Elvis special, in the opinion of Eugene Correthers?",wavy hair,Elvis's personality,2
+E,5,Elvis,47,question,NA,"On the bus, how did the boy behave?",talked a lot,was very quiet,3
+E,5,Elvis,48,question,NA,What was the barber's initial reaction to the boy's request?,said he'd try his best,said he couldn't do it,4
+E,5,Elvis,49,question,NA,What did the barber hand to the boy when he finished the haircut?,a nickel,a candy,5
+F,6,Mr Sticky,1,sentence,This is a story of how Mr. Sticky got in Abby’s fish tank.,NA,NA,NA,NA
+F,6,Mr Sticky,2,sentence,"He's very small, Abby’s Mom said as she peered at the tiny water snail.",NA,NA,NA,NA
+F,6,Mr Sticky,3,sentence,"Abby said that he would grow and then pulled her pajama bottoms up again before she got into bed, for they were always falling down.",NA,NA,NA,NA
+F,6,Mr Sticky,4,sentence,"Usually, Abby’s Mom got up at the crack of dawn, but it was Abby who jumped out of bed first the next morning and switched on the light in her fish tank, which contained three fish.",NA,NA,NA,NA
+F,6,Mr Sticky,5,sentence,"At first, she could see neither hide nor hair of the snail, but then she spotted him.",NA,NA,NA,NA
+F,6,Mr Sticky,6,sentence,"It had taken Abby a while to find Sticky because he was clinging to the glass near the bottom, right next to the gravel.",NA,NA,NA,NA
+F,6,Mr Sticky,7,sentence,"At school that day, Abby, encouraged by her teacher wrote excitedly about the small and mysterious Mr. Sticky who you could mistake for a piece of gravel.",NA,NA,NA,NA
+F,6,Mr Sticky,8,sentence,He seemed an ideal pet for her – some of the girls in her class teased – because Abby was also very small.,NA,NA,NA,NA
+F,6,Mr Sticky,9,sentence,"That evening, Abby turned on the light and found Mr. Sticky clinging to the pondweed and bobbing about in the air bubbles.",NA,NA,NA,NA
+F,6,Mr Sticky,10,sentence,That looks fun! Abby exclaimed.,NA,NA,NA,NA
+F,6,Mr Sticky,11,sentence,She tried to imagine what it must be like to have to hang on to things all day and decided the answer was that it was probably very tiring.,NA,NA,NA,NA
+F,6,Mr Sticky,12,sentence,Abby told her Mom that she thought Sticky had grown a bit the next day at breakfast.,NA,NA,NA,NA
+F,6,Mr Sticky,13,sentence,"Just as well if he's going to be gobbled up like that, her Mom responded, who was busy preparing breakfast.",NA,NA,NA,NA
+F,6,Mr Sticky,14,sentence,Abby whined that she didn’t want him to get too big or he wouldn’t be cute anymore.,NA,NA,NA,NA
+F,6,Mr Sticky,15,sentence,"“Small things, not big things are cute, right?"" she asked, half to herself.",NA,NA,NA,NA
+F,6,Mr Sticky,16,sentence,"The next day in art class, Abby needed two pieces of paper that were very expensive to draw an elephant, but the teacher didn't mind Abby using the expensive paper because she was pleased with the drawing and wanted it on the wall.",NA,NA,NA,NA
+F,6,Mr Sticky,17,sentence,"The teacher, who was always very encouraging, remarked that the drawing Abby had made was very creative and beamed at Abby, giving her the seal of approval.",NA,NA,NA,NA
+F,6,Mr Sticky,18,sentence,"Back at home, Mom, convinced by Abby to clean out the tank was cleaning with a special vacuum, or “hoover.”",NA,NA,NA,NA
+F,6,Mr Sticky,19,sentence,Where's Mr. Sticky? Abby asked first thing when she came home from school.,NA,NA,NA,NA
+F,6,Mr Sticky,20,sentence,"On the side, Mom replied.",NA,NA,NA,NA
+F,6,Mr Sticky,21,sentence,"And then she added, ""Don't worry I went extra slowly since it’s better to be safe than sorry.""",NA,NA,NA,NA
+F,6,Mr Sticky,22,sentence,Abby looked on all sides of the tank but there was no sign of the water snail that she had discovered a couple of days ago.,NA,NA,NA,NA
+F,6,Mr Sticky,23,sentence,She was very sad.,NA,NA,NA,NA
+F,6,Mr Sticky,24,sentence,Her Mom said to wait a few hours until the water clears to take another careful look.,NA,NA,NA,NA
+F,6,Mr Sticky,25,sentence,"That evening, Abby went up to her bedroom to check the tank again.",NA,NA,NA,NA
+F,6,Mr Sticky,26,sentence,The water had settled and looked clear but Abby could not see Mr. Sticky.,NA,NA,NA,NA
+F,6,Mr Sticky,27,sentence,"Abby kneeled down to have another look in the tank that her Mom had cleared so thoroughly, but Mr. Sticky was still nowhere to be found.",NA,NA,NA,NA
+F,6,Mr Sticky,28,sentence,Abby was a bundle of nerves as she descended the stairs.,NA,NA,NA,NA
+F,6,Mr Sticky,29,sentence,In the study surrounded by books and papers her mom was working and she looked impatient when she saw Abby in the doorway and even more worried when she heard the bad news.,NA,NA,NA,NA
+F,6,Mr Sticky,30,sentence,"He'll turn up, Mom said, and that was that.",NA,NA,NA,NA
+F,6,Mr Sticky,31,sentence,"Then, to add fuel to the flames, she raised her tone of voice and said dismissively, ""For the time being, go to bed, Abby.",NA,NA,NA,NA
+F,6,Mr Sticky,32,sentence,"I've got masses of work to catch up on.""",NA,NA,NA,NA
+F,6,Mr Sticky,33,sentence,Abby had a quick temper and she was angry as hell.,NA,NA,NA,NA
+F,6,Mr Sticky,34,sentence,"You've hoovered him up, haven't you? she said accusingly.",NA,NA,NA,NA
+F,6,Mr Sticky,35,sentence,"Abby’s Mom denied Abby’s version of the story was true and said that she was careful, but because Mr. Sticky was so small he was hard to see.",NA,NA,NA,NA
+F,6,Mr Sticky,36,sentence,What's wrong with being small?,NA,NA,NA,NA
+F,6,Mr Sticky,37,sentence,"Nothing at all, but it makes things hard to find.”
+ 
+ Or notice,"" Abby said, suddenly feeling like the small, overlooked Mr. Sticky herself and storming from the room.",NA,NA,NA,NA
+F,6,Mr Sticky,38,sentence,The door to the bedroom opened a few minutes later and Mom's face appeared. She was there to try to make up for having been insensitive earlier.,NA,NA,NA,NA
+F,6,Mr Sticky,39,sentence,She had put her work on the back burner and occupied herself with Sticky.,NA,NA,NA,NA
+F,6,Mr Sticky,40,sentence,"Abby, who was breathing fire all on account of the little snail, tried to ignore her but it was hard when Mom walked over to the bed and sat next to her.",NA,NA,NA,NA
+F,6,Mr Sticky,41,sentence,"Mom, who Abby still strained to remain upset with, had gone out to find her glasses in order to search for Sticky more effectively.",NA,NA,NA,NA
+F,6,Mr Sticky,42,sentence,"This is my new and extra powerful pair I have for important occasions like snail hunting, she said.",NA,NA,NA,NA
+F,6,Mr Sticky,43,sentence,"She smiled at Abby, trying to butter her up, but Abby didn’t smile back.",NA,NA,NA,NA
+F,6,Mr Sticky,44,sentence,"Abby believed her mom’s idea would not succeed, but then she had an idea of her own.",NA,NA,NA,NA
+F,6,Mr Sticky,45,sentence,"I've got a magnifying glass, Abby suddenly remembered and rushed off to find it.",NA,NA,NA,NA
+F,6,Mr Sticky,46,sentence,"On the floor beside each other they sat, shuffling around the tank, looking all over the place and peering into the corners among the big pebbles and the pondweed.",NA,NA,NA,NA
+F,6,Mr Sticky,47,sentence,"Abby tried to imagine, if she were Sticky, a little water snail, where would she hide out?",NA,NA,NA,NA
+F,6,Mr Sticky,48,sentence,"At one point she thought she saw him, but it wasn’t the water snail.",NA,NA,NA,NA
+F,6,Mr Sticky,49,sentence,It was a large speck of dust that was deceptively bobbing around in the water like a live animal.,NA,NA,NA,NA
+F,6,Mr Sticky,50,sentence,"They were ready to call it quits, when suddenly Mom cried, ""Ah ha!""",NA,NA,NA,NA
+F,6,Mr Sticky,51,sentence,"Tucked in a curve of the archway, perfectly hidden against a pitch dark stone, sat Mr. Sticky, safe and sound.",NA,NA,NA,NA
+F,6,Mr Sticky,52,sentence,"“You, I can always count on,” Abby said to her mom, with relief.",NA,NA,NA,NA
+F,6,Mr Sticky,53,sentence,Then she noticed another water snail was right next to Sticky and asked where this new addition to the family could have come from.,NA,NA,NA,NA
+F,6,Mr Sticky,54,sentence,"I'm beginning to suspect the pond weed is guilty, don't you think? replied Mom.",NA,NA,NA,NA
+F,6,Mr Sticky,55,sentence,"They both laughed and climbed into Abby's bed together and though it was cozy, it was a bit of a squeeze.",NA,NA,NA,NA
+F,6,Mr Sticky,56,sentence,"Budge up, Mom said, giving Abby a push with her bottom.",NA,NA,NA,NA
+F,6,Mr Sticky,57,sentence,I can't because I'm already on the edge.,NA,NA,NA,NA
+F,6,Mr Sticky,58,sentence,"Good heavens, you've grown then.
+ 
+ When did that happen?
+ 
+ You could’ve put an elephant in here last time we did this.
+ 
+ Before I know it, you’ll be all grown up.",NA,NA,NA,NA
+F,6,Mr Sticky,59,sentence,On her mom's chest Abby then put her head and smiled.,NA,NA,NA,NA
+F,6,Mr Sticky,60,question,NA,Who got up first the morning after Mr. Sticky first appeared in the fish tank?,Abby,Abby's mom,1
+F,6,Mr Sticky,61,question,NA,Who were the usual residents of the fish tank?,fish,turtles,2
+F,6,Mr Sticky,62,question,NA,What event caused Mr. Sticky to disappear?,Abby's mom cleaning the fish tank,Abby's mom adding some plants into the fish tank,3
+F,6,Mr Sticky,63,question,NA,Where did the mom say Mr. Sticky was after Abby came home?,on the side of the fish tank,on the big rock at the bottom of the fish tank,4
+F,6,Mr Sticky,64,question,NA,What did Abby use to look for Mr. Sticky when they couldn't find him?,a magnifying glass,a bright flashlight,5
+G,7,High School,1,sentence,The text message said that Lucy Josephs was a failure.,NA,NA,NA,NA
+G,7,High School,2,sentence,"It said she was ugly, had no style andthe world hated her.",NA,NA,NA,NA
+G,7,High School,3,sentence,At least that was what it said to Lucy.,NA,NA,NA,NA
+G,7,High School,4,sentence,It said that and a whole lot more that she was struggling to understand.,NA,NA,NA,NA
+G,7,High School,5,sentence,The actual text of the note said that Lucy better not show up at the party tonight because it was going to be bad enough already!,NA,NA,NA,NA
+G,7,High School,6,sentence,"Lucy, who had started receiving these messages a few weeks ago,tappedthe mobile screen to make the message disappear from view.",NA,NA,NA,NA
+G,7,High School,7,sentence,She only wished it was as easy to tap her heart and erase the trace the message had left there.,NA,NA,NA,NA
+G,7,High School,8,sentence,“Was that another one of those messages?”her mom askedwho was driving the car.,NA,NA,NA,NA
+G,7,High School,9,sentence,"Lucy confirmed her mother’s suspicion was foundedas she answered dejectedly,“I’m sorry to say it was.”",NA,NA,NA,NA
+G,7,High School,10,sentence,"Haven’t you reported it yet?'asked Jill, Lucy's older sisterwho was sitting in the passenger seat.",NA,NA,NA,NA
+G,7,High School,11,sentence,"Yes,'Lucy replied,lying through her teeth.",NA,NA,NA,NA
+G,7,High School,12,sentence,"That Lucy should notlet the messages get to herandthat the sender was only jealous were Lucy’s mom’s arguments, in an effort to comfort her daughter.",NA,NA,NA,NA
+G,7,High School,13,sentence,"Lucy’s mom suddenly felt guilty, forshe had been the one to buy the phone for Lucy just a couple of months ago.",NA,NA,NA,NA
+G,7,High School,14,sentence,"She then admitted her regret about the phone was still bugging herout loudasshe sighed,'I never should have given you that phone Lucy.'",NA,NA,NA,NA
+G,7,High School,15,sentence,"No it's fine, I love it,'said Lucyknowing that affording the phone had been no small thing for her mother.",NA,NA,NA,NA
+G,7,High School,16,sentence,It had been nothing but trouble though.,NA,NA,NA,NA
+G,7,High School,17,sentence,"Lucy did not know who it was that was sending her the messages,and she did not know how they had got her number, but whoever it was, he or she had slowly taken over Lucy’s life.",NA,NA,NA,NA
+G,7,High School,18,sentence,"She was getting several texts a day now, all of which were abusive and hurtful.",NA,NA,NA,NA
+G,7,High School,19,sentence,Lucy wondered what the person who was messaging her might be thinking or trying to achieve with all of their hateful messages.,NA,NA,NA,NA
+G,7,High School,20,sentence,"As the car pulled up outside the school, which looked like a large shadow in the darkness of a November evening, Lucy felt a shiver run down her spine.",NA,NA,NA,NA
+G,7,High School,21,sentence,"Hastened by Jill, who did not want to be lateto her own concert, Lucy hesitantly stepped out of the carandwalked toward the school.",NA,NA,NA,NA
+G,7,High School,22,sentence,"It was Jill who in her final year of high school had become involved in helping organize this year's school talent show,andshe took her position very seriously.",NA,NA,NA,NA
+G,7,High School,23,sentence,"Lucy hurried behind Jill pulling on the worn, oversized coat that had originally belonged to Jill,in order to keep her dry as the raindrops fell all around them.",NA,NA,NA,NA
+G,7,High School,24,sentence,"As the sisters entered the hall where the show was to take place,Jill filled with excitement while Lucy regretted that she had promised her mother she would participate in the show.",NA,NA,NA,NA
+G,7,High School,25,sentence,"“To wasteyourtalent would be a real shame, for you have such a beautiful voice,”her mother had argued two months backwhen the concert was first announced.",NA,NA,NA,NA
+G,7,High School,26,sentence,"Lucy had been considering it, forshe did love to sing.",NA,NA,NA,NA
+G,7,High School,27,sentence,That very night the first text message had come through.,NA,NA,NA,NA
+G,7,High School,28,sentence,"How does it feel to be tall and lanky like a giraffe?'it had asked,taking Lucy by surprise.",NA,NA,NA,NA
+G,7,High School,29,sentence,"One of the popular girls, Lucy had always known she wasn’t, butbefore the messages began, Lucy had always been quite proud of being a little different.",NA,NA,NA,NA
+G,7,High School,30,sentence,"But text by text, Lucy’s self confidence had deflated and, in the end, it had taken some doing to get her to agree to perform in the show.",NA,NA,NA,NA
+G,7,High School,31,sentence,"Now, however, Lucy had no choice but to make her way towards the stage where Jill was beckoningencouragingly to her.",NA,NA,NA,NA
+G,7,High School,32,sentence,She was the first performer.,NA,NA,NA,NA
+G,7,High School,33,sentence,"Lucy, announced by her sister to the audience, was all nerves as she walked out onto the middle of the stagewhere there was nothing but a microphone and her.",NA,NA,NA,NA
+G,7,High School,34,sentence,She heard the audience applaud andcould feel a sense of anticipation emanate from the other side of the heavy curtain.,NA,NA,NA,NA
+G,7,High School,35,sentence,"As the curtains began to part, she cast a worried look at Jill in the wings, who assured herwith a positive thumbs up.",NA,NA,NA,NA
+G,7,High School,36,sentence,"Lucy thought to herself that she could not go through with this andthat she,unlike her older sister, was not confident enough to put herself before the judging audience.",NA,NA,NA,NA
+G,7,High School,37,sentence,The crowd looked up at her andLucy was ready to runwhen the first notes of the music sounded outanda sudden calm settled over her.,NA,NA,NA,NA
+G,7,High School,38,sentence,"She closed her eyes andshut everything out,including the audience, the nerves that threatened to take over, the text messages,andthe way they made her feel.",NA,NA,NA,NA
+G,7,High School,39,sentence,"It was just her and the music,and it was a love story that had been going on her whole life.",NA,NA,NA,NA
+G,7,High School,40,sentence,"She began to sing, and all the pain and confusion that the messages had been causing inside her just flowed out.",NA,NA,NA,NA
+G,7,High School,41,sentence,"The words were not important,for it was the feeling behind them that she latched onto.",NA,NA,NA,NA
+G,7,High School,42,sentence,Lucy was in the heart of the song with the rest of the world slipping away.,NA,NA,NA,NA
+G,7,High School,43,sentence,"When the song finishedandthe last note died away, she opened her eyes.",NA,NA,NA,NA
+G,7,High School,44,sentence,To seethe whole audience on their feetandthe hall filled with cheersandapplause was not what Lucy had expected.,NA,NA,NA,NA
+G,7,High School,45,sentence,Lucy allowed herself to enjoy the sense of achievement and belonging that she had not felt in a very long time.,NA,NA,NA,NA
+G,7,High School,46,sentence,"Then she saw her mother, who was cheering the loudestof all in the crowd,andJill,who was beaming at herwith pride from the wings.",NA,NA,NA,NA
+G,7,High School,47,sentence,She knew she owed them big time for reminding her what she was capable of and who she really was.,NA,NA,NA,NA
+G,7,High School,48,sentence,The next time her phone bleeped she would tap the message straight into oblivion where it belonged.,NA,NA,NA,NA
+G,7,High School,49,question,NA,When did Lucy start receiving nasty text messages?,a few weeks ago,last year,1
+G,7,High School,50,question,NA,Who asked Lucy about whether she has reported the messages?,her sister,her mom,2
+G,7,High School,51,question,NA,What was Lucy's mom's reaction to the messages?,she regretted buying the phone,she wanted to talk to the school principal,3
+G,7,High School,52,question,NA,What was the event that was taking place at the school that night?,a talent show,a fundraiser,4
+G,7,High School,53,question,NA,How did Lucy feel when the music started?,suddenly calm,very nervous,5
+H,8,Roswell,1,sentence,"The Roswell UFO Incident was the alleged recovery of extra-terrestrial debris,including alien corpses,from an objectthat crashed near Roswell, New Mexico,on or about July eighth, nineteen forty seven.",NA,NA,NA,NA
+H,8,Roswell,2,sentence,"Since the late nineteen seventies, the incident has been the subject of intense controversy and the subject of conspiracy theories as to the true nature of the objectthat crashed.",NA,NA,NA,NA
+H,8,Roswell,3,sentence,"The United States military maintains the debris recovered was froman experimental high-altitude surveillance balloonthat belonged to a classified program named ""Mogul"".",NA,NA,NA,NA
+H,8,Roswell,4,sentence,"However, many UFO proponents maintain that,in fact, a crashed alien craftandbodies were recovered,andthat the military then engaged in a cover-up.",NA,NA,NA,NA
+H,8,Roswell,5,sentence,"The incident has turned into a widely known pop culture phenomenon, making the name Roswell synonymous with UFOs.",NA,NA,NA,NA
+H,8,Roswell,6,sentence,Itranks as one of the most publicized and controversial alleged UFO incidents.,NA,NA,NA,NA
+H,8,Roswell,7,sentence,"On July ninth, nineteen forty seven,a press releasethat Roswell Army Air Field issuedstated that personnel from the field's Bomb Group had recovered a crashed ""flying disc"" from a ranch near Roswell, sparking intense media interest.",NA,NA,NA,NA
+H,8,Roswell,8,sentence,"Later the same day, the Commanding General of the Eighth Air Force stated that, in fact, a weather balloon had been recovered by the Roswell Army Air Field personnel,rather than a ""flying saucer.""",NA,NA,NA,NA
+H,8,Roswell,9,sentence,"A subsequent press conference was called, featuring debrisfrom the crashed objectthat confirmed the weather balloon description.",NA,NA,NA,NA
+H,8,Roswell,10,sentence,"The case was quickly forgotten andalmost completely ignored,even by UFO researchers,for more than thirty years.",NA,NA,NA,NA
+H,8,Roswell,11,sentence,"Then,in nineteen seventy eight, nuclear physicist and author Stanton Friedman interviewed Jesse Marcel, the onlyperson known to have accompaniedthe Roswell debris fromwhere it was recoveredto Fort Worth.",NA,NA,NA,NA
+H,8,Roswell,12,sentence,"Over the next few years, the account she and others gave elevated Roswellfrom a forgotten incident to perhaps the most famous UFO case of all time.",NA,NA,NA,NA
+H,8,Roswell,13,sentence,"By the early nineteen nineties,UFO researchers had interviewed several hundred peoplewho had,orwho claimed to have had, a connection with the events at Roswell in nineteen forty seven.",NA,NA,NA,NA
+H,8,Roswell,14,sentence,"Additionally, hundreds of documents were obtained by Freedom of Information Act requests, as were some that insiders apparently leaked.",NA,NA,NA,NA
+H,8,Roswell,15,sentence,"Their conclusions were that at least one alien craft had crashed in the Roswell vicinity, that aliens, some possibly still alive,were recovered,andthat a massive cover-up of any knowledge of the incident was put in place.",NA,NA,NA,NA
+H,8,Roswell,16,sentence,"Numerous books, articles, television specials andeven a made-for-TV movie brought the nineteen forty seven incident fameandnotoriety so thatby the mid nineteen nineties, strong majorities in polls,such as a nineteen ninety seven CNN/Time poll,believed that aliens had visited earthandspecifically that aliens had landed at Roswellandthe government was covering up the fact.",NA,NA,NA,NA
+H,8,Roswell,17,sentence,"During the nineteen eighties and nineteen nineties, a new narrative emerged which was at strong odds with what was reported in nineteen forty seven.",NA,NA,NA,NA
+H,8,Roswell,18,sentence,"This narrative evolved over the years from the time the first book on Roswell  was published in nineteen eight as many new witnesses and accounts emerged,drawn out in partby the publicity on the incident.",NA,NA,NA,NA
+H,8,Roswell,19,sentence,"Of the hundredsof witnesses that the various researchers interviewed-a seemingly impressive figure- a comparable few were true ""witnesses""who claimed to have actually seendebrisoraliens.",NA,NA,NA,NA
+H,8,Roswell,20,sentence,"Most of these so-called witnesses were repeating the claims of others,andtheir testimony would be inadmissible hearsay in an American court.",NA,NA,NA,NA
+H,8,Roswell,21,sentence,"As for the several accounts from those who claimed to have seen aliens, critics identified a variety of problems with them.",NA,NA,NA,NA
+H,8,Roswell,22,sentence,"These problems ranged from the reliability of second-hand accounts, to serious credibility problems with witnessesmaking demonstrably falseorinternally inconsistent claims, to dubious death-bed""confessions""oraccounts from elderlyoreasily confused witnesses.",NA,NA,NA,NA
+H,8,Roswell,23,sentence,"A basic problem with all the witness accounts,according to the critics, is that they all came a minimum of thirty one years after the events in question,andin many cases were recounted more than forty years after the fact.",NA,NA,NA,NA
+H,8,Roswell,24,sentence,"Not only are memories this old of dubious reliability, they were also subject to contamination from other accounts the witnesses may have been exposed to.",NA,NA,NA,NA
+H,8,Roswell,25,sentence,"Though there had always beenskepticswho had many objectionsto the plausibility of these accounts,it was notuntil the mid nineteen nineties that a strong counter-argument to the presence of aliens was widely publicized.",NA,NA,NA,NA
+H,8,Roswell,26,sentence,The General Accounting Office launched an inquiryanddirected the Office of the Secretary of the Air Force to conduct an internal investigation.,NA,NA,NA,NA
+H,8,Roswell,27,sentence,The result was summarized in two reports.,NA,NA,NA,NA
+H,8,Roswell,28,sentence,"The first, released in nineteen ninety five, concluded that the reported recovered material in nineteen forty seven was likely debris from a secret government program called Project Mogul, which involved high altitude balloons meant to detect soundwaves generated by Soviet atomic bomb tests and ballistic missiles.",NA,NA,NA,NA
+H,8,Roswell,29,sentence,"The second report, released two years later, in nineteen ninety seven, concluded that reports of recovered alien bodies were likely a combination of: innocently transformed memories of military accidents involving injured or killed personnel; innocently transformed memories of the recovery of anthropomorphic dummies in military programs US conducted in the nineteen fifties;and hoaxes that various witnesses and UFO proponents perpetrated.",NA,NA,NA,NA
+H,8,Roswell,30,sentence,The psychological effects of time compression and confusion about when events occurred explained the discrepancy with the years in question.,NA,NA,NA,NA
+H,8,Roswell,31,sentence,"In January nineteen ninety seven, Karl Pflock, one of the more prominent pro-UFO researchers, said:“Based on my researchandthat of others, I'mas certain asit's possible to be without absolute proof, that no flying saucerorsaucers crashed in the general vicinity of Roswelloron the Plains of San Agustin in nineteen forty seven.”",NA,NA,NA,NA
+H,8,Roswell,32,sentence,"He then added:“Thedebris foundwas the remains of somethingvery earthly, all but certainly something from the Top Secret Project Mogul.”",NA,NA,NA,NA
+H,8,Roswell,33,sentence,"Although most now agreewith this conclusion, each year, during July Fourth Weekend, the City of Roswell hosts the Roswell UFO Festivalcelebrating all things UFO featuring prominentUFOlogistsanddiscussions.",NA,NA,NA,NA
+H,8,Roswell,34,question,NA,Where is Roswell located?,New Mexico,New Hampshire,1
+H,8,Roswell,35,question,NA,"What did the name ""Roswell"" become synonymous with?",UFOs,conspiracy theories,2
+H,8,Roswell,36,question,NA,What did a press conference that took place shortly after the crash confirm?,that the debris looked like a weather balloon,that the debris looked like a flying saucer,3
+H,8,Roswell,37,question,NA,Jesse Marcel was the only person to do what?,accompany the debris from the recovery site to Fort Worth,see the crash from close distance,4
+H,8,Roswell,38,question,NA,"According to the CNN/Time poll, what did most people believe?",that aliens had landed at Roswell,that the Roswell crash was a result of a US government secret operation,5
+I,9,Tulips,1,sentence,Tulip mania was a period in the Dutch Golden Age during which contract prices for bulbs of the recently introduced tulip reached extraordinarily high levels and then suddenly collapsed.,NA,NA,NA,NA
+I,9,Tulips,2,sentence,"At the peak of tulip mania in February sixteen thirty-seven, tulip contracts sold for more than ten times the annual income of a skilled craftsman.",NA,NA,NA,NA
+I,9,Tulips,3,sentence,It is generally considered the first recorded economic bubble.,NA,NA,NA,NA
+I,9,Tulips,4,sentence,"The tulip, introduced to Europe in the mid sixteenth century from the Ottoman Empire, became very popular in the United Provinces, which we now know as the Netherlands.",NA,NA,NA,NA
+I,9,Tulips,5,sentence,"Tulip cultivation in the United Provinces is generally thought to have started in earnest around fifteen ninety-three after the Flemish botanist Charles de l'Écluse had taken up a post at the University of Leiden and established a botanical garden, which is famous as one of the oldest in the world.",NA,NA,NA,NA
+I,9,Tulips,6,sentence,"There, he planted his collection of tulip bulbs, that the Emperor's ambassador sent to him from Turkey, which were able to tolerate the harsher conditions of the northern climate.",NA,NA,NA,NA
+I,9,Tulips,7,sentence,It was shortly thereafter that the tulips began to grow in popularity.,NA,NA,NA,NA
+I,9,Tulips,8,sentence,"The flower rapidly became a coveted luxury item and a status symbol, and a profusion of varieties followed.",NA,NA,NA,NA
+I,9,Tulips,9,sentence,"They were classified in groups: one-colored tulips of red, yellow, or white were known as Couleren, but it was the multicolored Rosen (red or pink on white background), Violetten (purple or lilac on white background), and, to a lesser extent, the Bizarden (red, brown or purple on yellow background) that were the most popular.",NA,NA,NA,NA
+I,9,Tulips,10,sentence,"These spectacular and highly sought-after tulip bulbs would grow flowers with vivid colors, lines, and flames on the petals, as a result, it is now understood, of being infected with tulip-specific virus known as the ""Tulip breaking virus"".",NA,NA,NA,NA
+I,9,Tulips,11,sentence,The Dutch Golden Age growers named their new varieties with exalted titles.,NA,NA,NA,NA
+I,9,Tulips,12,sentence,"Many early forms were prefixed with ""admiral"", often combined with the growers' names.",NA,NA,NA,NA
+I,9,Tulips,13,sentence,"“General"" was another prefix that found its way into the names of around thirty varieties.",NA,NA,NA,NA
+I,9,Tulips,14,sentence,"Later came varieties with even more superb names, such as even ""Admiral of Admirals"" and ""General of Generals"".",NA,NA,NA,NA
+I,9,Tulips,15,sentence,"Most of these varieties have now died out, though similar ""broken"" tulips continue in the trade.",NA,NA,NA,NA
+I,9,Tulips,16,sentence,"Tulips grow from bulbs, and can be propagated through both seeds and buds.",NA,NA,NA,NA
+I,9,Tulips,17,sentence,Seeds from a tulip will form a flowering bulb after seven-twelve years.,NA,NA,NA,NA
+I,9,Tulips,18,sentence,"When a bulb grows into the flower, the original bulb will disappear, but a clone bulb forms in its place, as do several buds.",NA,NA,NA,NA
+I,9,Tulips,19,sentence,"Properly cultivated, these buds will become bulbs of their own.",NA,NA,NA,NA
+I,9,Tulips,20,sentence,"The “tulip breaking” virus, which many botanists have studied, spreads only through buds, not seeds, and so cultivating the most appealing varieties takes years.",NA,NA,NA,NA
+I,9,Tulips,21,sentence,Propagation is greatly slowed down by the virus.,NA,NA,NA,NA
+I,9,Tulips,22,sentence,"Tulips bloom in April and May for about a week, and the secondary buds appear shortly thereafter.",NA,NA,NA,NA
+I,9,Tulips,23,sentence,"Bulbs can be uprooted and moved about from June to September, and thus actual purchases occurred during these months.",NA,NA,NA,NA
+I,9,Tulips,24,sentence,"As the flowers grew in popularity, professional growers paid higher and higher prices for bulbs with the virus.",NA,NA,NA,NA
+I,9,Tulips,25,sentence,"By sixteen thirty-four, in part as a result of demand from the French, speculators began to enter the market.",NA,NA,NA,NA
+I,9,Tulips,26,sentence,"In sixteen thirty-six, the Dutch created a type of formal futures markets which merchants used to sell and buy contracts to buy bulbs at the end of the season.",NA,NA,NA,NA
+I,9,Tulips,27,sentence,Traders met at taverns and buyers were required to pay a fee per trade.,NA,NA,NA,NA
+I,9,Tulips,28,sentence,"People were purchasing bulbs at higher and higher prices, intending to re-sell them for a profit.",NA,NA,NA,NA
+I,9,Tulips,29,sentence,"However, such a scheme could not last unless someone was ultimately willing to pay such high prices and take possession of the bulbs.",NA,NA,NA,NA
+I,9,Tulips,30,sentence,"In February sixteen thirty-seven, tulip traders could no longer find new buyers willing to pay increasingly inflated prices for their bulbs.",NA,NA,NA,NA
+I,9,Tulips,31,sentence,"As this realization set in, the demand for tulips collapsed, and prices plummeted—the speculative bubble burst.",NA,NA,NA,NA
+I,9,Tulips,32,sentence,"Some were left holding contracts to purchase tulips at prices now ten times greater than those on the open market, while others found themselves in possession of bulbs now worth a fraction of the price they had paid.",NA,NA,NA,NA
+I,9,Tulips,33,sentence,"The event was popularized in eighteen forty-one by the book Extraordinary Popular Delusions and the Madness of Crowds, that a British journalist Charles Mackay wrote.",NA,NA,NA,NA
+I,9,Tulips,34,sentence,"That crowds of people often behave irrationally was the main thesis of the book, and tulip mania was one of the primary examples.",NA,NA,NA,NA
+I,9,Tulips,35,sentence,"According to Mackay, at one point twelve acres of land were offered for a Semper Augustus bulb.",NA,NA,NA,NA
+I,9,Tulips,36,sentence,"He claims that many such investors ruined by the fall in prices were desperate, and Dutch commerce suffered a severe shock.",NA,NA,NA,NA
+I,9,Tulips,37,sentence,"In Mackay's account, the panicked tulip speculators sought help from the government of the Netherlands, which responded by declaring that anyone who had bought contracts to purchase bulbs in the future could void their contract by payment of a ten percent fee.",NA,NA,NA,NA
+I,9,Tulips,38,sentence,Attempts that were made to resolve the situation to the satisfaction of all parties were unsuccessful.,NA,NA,NA,NA
+I,9,Tulips,39,sentence,"The mania finally ended, Mackay says, with individuals stuck with the bulbs they held at the end of the crash.",NA,NA,NA,NA
+I,9,Tulips,40,sentence,"No court would enforce payment of a contract, since judges regarded the debts as contracted through gambling, and thus not enforceable by law.",NA,NA,NA,NA
+I,9,Tulips,41,sentence,"Although Mackay's book is a classic that many publishing houses continue reprinting today, his account is contested.",NA,NA,NA,NA
+I,9,Tulips,42,sentence,"Many modern scholars believe the mania was not as extraordinary as Mackay described, with some arguing that the price changes may not have constituted a bubble.",NA,NA,NA,NA
+I,9,Tulips,43,sentence,Research on the tulip mania is difficult because of the limited data from the sixteen thirties.,NA,NA,NA,NA
+I,9,Tulips,44,sentence,"However, some modern economists have proposed rational explanations, rather than a speculative mania, for the rise and fall in prices.",NA,NA,NA,NA
+I,9,Tulips,45,sentence,"For example, other flowers, such as the hyacinth, also had high prices on the flower's introduction, which then fell dramatically.",NA,NA,NA,NA
+I,9,Tulips,46,sentence,"The high prices may also have been driven by expectations of a parliamentary decree that contracts could be voided for a small cost, thus lowering the risk to buyers.",NA,NA,NA,NA
+I,9,Tulips,47,sentence,"Despite these disagreements about whether the phenomenon technically constituted an economic bubble, the term ""tulip mania"" is still often used metaphorically to refer to any large economic bubble, when asset prices deviate from intrinsic values.",NA,NA,NA,NA
+I,9,Tulips,48,question,NA,When did tulip mania reach its peak?,1630's,1730's,1
+I,9,Tulips,49,question,NA,From which country did tulips come to Europe?,Turkey,Egypt,2
+I,9,Tulips,50,question,NA,Which tulips were more popular?,multicolored,one-colored,3
+I,9,Tulips,51,question,NA,How can tulips be propagated?,from either seeds or buds,from seeds only,4
+I,9,Tulips,52,question,NA,How did Charles Mackay talk about tulip mania in his book?,as a prime example of humans being irrational,as a prime example of humans being evil,5
+K,10,Tourette,1,sentence,"Tourette’s syndrome, a neurological disorder characterized by repetitive, involuntary movements, was named for Dr. Georges Gilles de la Tourette, the pioneering French neurologist who first described the condition in an eighty-six-year-old French noblewoman.",NA,NA,NA,NA
+K,10,Tourette,2,sentence,"It is almost always in childhood that the early symptoms of Tourette’s are first noticed, with the average onset between the ages of seven and ten years.",NA,NA,NA,NA
+K,10,Tourette,3,sentence,"It is estimated that two hundred thousand Americans have the most severe form of Tourette’s, and as many as one in a hundred people exhibit milder and less complex symptoms that include chronic motor and vocal tics or transient tics of childhood.",NA,NA,NA,NA
+K,10,Tourette,4,sentence,"For the majority of people diagnosed with the disorder, Tourette’s is not a chronic condition with symptoms lasting a lifetime.",NA,NA,NA,NA
+K,10,Tourette,5,sentence,"Rather it is a condition whose severity peaks in the early teens, with improvement occurring in the late teens and continuing into adulthood.",NA,NA,NA,NA
+K,10,Tourette,6,sentence,"However, approximately ten percent of those affected have a progressive or disabling course that lasts into adulthood.",NA,NA,NA,NA
+K,10,Tourette,7,sentence,It is not uncommon for symptoms to be present for an extended period of time before a formal diagnosis of Tourette’s is obtained.,NA,NA,NA,NA
+K,10,Tourette,8,sentence,"The reasons for this are many and may include the fact that for families and physicians unfamiliar with Tourette’s, mild and even moderate tic symptoms may be considered inconsequential, part of a developmental phase, or the result of another condition.",NA,NA,NA,NA
+K,10,Tourette,9,sentence,"For example, parents may think that eye blinking is related to vision problems or that sniffing is related to seasonal allergies.",NA,NA,NA,NA
+K,10,Tourette,10,sentence,"There are many patients who are self-diagnosed after they, their parents, other relatives, or friends read or hear about Tourette’s from others.",NA,NA,NA,NA
+K,10,Tourette,11,sentence,Tics are classified as either simple or complex.,NA,NA,NA,NA
+K,10,Tourette,12,sentence,"Simple motor tics are sudden, brief, repetitive movements that involve a limited number of muscle groups.",NA,NA,NA,NA
+K,10,Tourette,13,sentence,"Some of the more common simple tics include eye blinking, facial grimacing, shoulder shrugging, and head or shoulder jerking.",NA,NA,NA,NA
+K,10,Tourette,14,sentence,"Simple vocalizations, which motor tics typically precede, might include repetitive throat-clearing, sniffing, or grunting sounds.",NA,NA,NA,NA
+K,10,Tourette,15,sentence,"Complex tics are distinct, coordinated patterns of movement that involve several muscle groups.",NA,NA,NA,NA
+K,10,Tourette,16,sentence,Complex motor tics might include facial grimacing combined with a head twist and a shoulder shrug.,NA,NA,NA,NA
+K,10,Tourette,17,sentence,"Other complex motor tics may actually appear purposeful, including sniffing or touching objects, hopping, jumping, bending, or twisting.",NA,NA,NA,NA
+K,10,Tourette,18,sentence,Complex vocal tics include words or phrases.,NA,NA,NA,NA
+K,10,Tourette,19,sentence,"Perhaps the most dramatic and disabling tics include motor movements that result in self-harm such as punching oneself in the face or vocal tics including coprolalia, which involves uttering swear words, or echolalia, which involves repeating the words or phrases of others.",NA,NA,NA,NA
+K,10,Tourette,20,sentence,"Tics are often worse with excitement or anxiety and better during calm, focused activities.",NA,NA,NA,NA
+K,10,Tourette,21,sentence,Certain physical experiences can trigger or worsen tics.,NA,NA,NA,NA
+K,10,Tourette,22,sentence,"For example, tight collars may trigger neck tics, or hearing another person sniff or throat-clear may trigger the production of similar sounds.",NA,NA,NA,NA
+K,10,Tourette,23,sentence,"Tics come and go over time, varying in type, frequency, location, and severity.",NA,NA,NA,NA
+K,10,Tourette,24,sentence,"The first symptoms Tourette’s patients experience usually occur in the head and neck area, though they may progress to include muscles of the trunk and extremities.",NA,NA,NA,NA
+K,10,Tourette,25,sentence,"The symptoms of Tourette’s are involuntary, but there are some people who can sometimes suppress, camouflage, or otherwise manage their tics in an effort to minimize their impact on functioning.",NA,NA,NA,NA
+K,10,Tourette,26,sentence,"However, people affected by Tourette’s often report a substantial buildup in tension when suppressing their tics to the point where they often feel that the tic must be expressed.",NA,NA,NA,NA
+K,10,Tourette,27,sentence,Tics in response to an environmental trigger can appear to be voluntary or purposeful but are not.,NA,NA,NA,NA
+K,10,Tourette,28,sentence,"Many people with Tourette’s experience additional neurobehavioral problems that include inattention, hyperactivity and impulsivity.",NA,NA,NA,NA
+K,10,Tourette,29,sentence,"People with Tourette’s have also reported problems with depression or anxiety disorders, as well as other difficulties Tourette’s syndrome may or may not directly cause.",NA,NA,NA,NA
+K,10,Tourette,30,sentence,Tourette’s is a diagnosis doctors make after verifying that the patient has had both motor and vocal tics for at least one year.,NA,NA,NA,NA
+K,10,Tourette,31,sentence,The existence of other neurological or psychiatric conditions can also help doctors establish the diagnosis of Tourette’s is the correct one.,NA,NA,NA,NA
+K,10,Tourette,32,sentence,Knowledgeable clinicians consulted by patients do not often misdiagnose common tics.,NA,NA,NA,NA
+K,10,Tourette,33,sentence,"However, atypical symptoms or atypical presentation such as onset of symptoms in adulthood may require specialty expertise for diagnosis.",NA,NA,NA,NA
+K,10,Tourette,34,sentence,There are no blood or laboratory tests needed for diagnosis.,NA,NA,NA,NA
+K,10,Tourette,35,sentence,"However, neuroimaging studies, which include magnetic resonance imaging, computerized tomography, and electroencephalograms, as well as certain lab tests may be used to rule out other conditions that Tourette’s might be confused with.",NA,NA,NA,NA
+K,10,Tourette,36,sentence,"In terms of the role of genes in the disorder, evidence from twin and family studies suggests that Tourette’s is an inherited disorder.",NA,NA,NA,NA
+K,10,Tourette,37,sentence,"Although early family studies suggested an autosomal dominant mode of inheritance characterized the condition, more recent studies discovered the pattern of inheritance was much more complex.",NA,NA,NA,NA
+K,10,Tourette,38,sentence,"Although there may be a few genes that have substantial effects, it’s also possible that many genes with smaller effects and environmental factors may play a role in the development of Tourette’s.",NA,NA,NA,NA
+K,10,Tourette,39,sentence,"Genetic studies also suggest that some forms of Attention Deficit Hyperactivity Disorder and Obsessive Compulsive Disorder are genetically related to Tourette’s, but there is less evidence for a genetic relationship between Tourette’s and other neurobehavioral problems that Tourette’s commonly co-occurs with.",NA,NA,NA,NA
+K,10,Tourette,40,sentence,An important role in Tourette’s gene expression is played by the sex of the person.,NA,NA,NA,NA
+K,10,Tourette,41,sentence,"In particular, males affected by the gene are more likely to have tics and females who have a genetic predisposition are more likely to have obsessive-compulsive symptoms.",NA,NA,NA,NA
+K,10,Tourette,42,sentence,"Much current research is aimed at better understanding the genetic basis and symptomatology of Tourette’s, as well as its relationship to related disorders.",NA,NA,NA,NA
+K,10,Tourette,43,sentence,The hope is that this research leads to better diagnostic tools and better treatments for Tourette’s.,NA,NA,NA,NA
+K,10,Tourette,44,question,NA,Who was the patient in the first documented case of Tourette's?,an elderly woman,a young boy,1
+K,10,Tourette,45,question,NA,"For most patients, when do symptoms peak in severity?",early teens,late adulthood,2
+K,10,Tourette,46,question,NA,Why does Tourette's often go undiagnosed?,symptoms are mistaken for other conditions,patients rarely seek medical help,3
+K,10,Tourette,47,question,NA,What is a common motor tic?,eye blinking,snapping your fingers,4
+K,10,Tourette,48,question,NA,What happens if a patient suppresses their tics?,buildup in tension,depressive moods,5

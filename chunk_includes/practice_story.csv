@@ -1,0 +1,5 @@
+﻿group,StoryNum,StoryName,OrderInStory,ItemType,Sentence,Question,Correct,Wrong,QNum
+A,0,Practice,1,sentence,Mary stopped at a cafe on the way home.,,,,
+A,0,Practice,2,sentence,She ordered a sandwich and a glass of lemonade.,,,,
+A,0,Practice,3,sentence,"After eating, Mary walked to the bus stop.",,,,
+A,0,Practice,4,question,,What did Mary drink?,lemonade,coffee,1

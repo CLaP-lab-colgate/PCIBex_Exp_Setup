@@ -1,0 +1,21 @@
+group,StoryNum,StoryName,OrderInStory,ItemType,Sentence,Question,Correct,Wrong,QNum
+A,1,Boar,1,sentence,If you were to journey balala.,,,,
+A,1,Boar,2,sentence,It is in this valley where balala.,,,,
+A,1,Boar,3,sentence,That all mill owners were balala.,,,,
+A,1,Boar,4,sentence,It shows a sinister looking balala.,,,,
+A,1,Boar,5,sentence,"There was once, legend has it balala.",,,,
+A,1,Boar,6,question,,What is depicted on the Crest of the City of Bradford?,boar's head,a spinning jenny,1
+A,1,Boar,7,question,,Who suggested a possible solution for the boar problem?,Lord of the Manor,the people of Bradford,2
+A,1,Boar,8,question,,How did the huntsman kill the boar?,using a bow and arrows,using a big knife,3
+A,1,Boar,9,question,,Where was the shortcut to the Manor House located?,around the pond,around the hill,4
+A,1,Boar,10,question,,,,,
+B,2,Cat,1,sentence,This is Group B~~~,,,,
+B,2,Cat,2,sentence,This is Group B~~~,,,,
+B,2,Cat,3,sentence,This is Group B~~~,,,,
+B,2,Cat,4,sentence,This is Group B~~~,,,,
+B,2,Cat,5,sentence,This is Group B~~~,,,,
+B,2,Cat,6,question,,What is depicted on the Crest of the City of Bradford?,boar's head,a spinning jenny,1
+B,2,Cat,7,question,,Who suggested a possible solution for the boar problem?,Lord of the Manor,the people of Bradford,2
+B,2,Cat,8,question,,How did the huntsman kill the boar?,using a bow and arrows,using a big knife,3
+B,2,Cat,9,question,,Where was the shortcut to the Manor House located?,around the pond,around the hill,4
+B,2,Cat,10,question,,,,,

@@ -1,0 +1,5 @@
+group,StoryNum,StoryName,OrderInStory,ItemType,Sentence,Question,Correct,Wrong,QNum
+A,0,Practice2,1,sentence,Mike went to the grocery store after work.,,,,
+A,0,Practice2,2,sentence,He bought a carton of milk and a loaf of bread.,,,,
+A,0,Practice2,3,sentence,Then he walked home.,,,,
+A,0,Practice2,4,question,,What did Mike buy to drink?,milk,juice,1
