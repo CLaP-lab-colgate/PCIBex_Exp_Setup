@@ -760,7 +760,7 @@ Template("latin_square_10stories_20groups.csv", row =>
         ,
         newController("DashedSentence", { s: row.Sentence })
             .css({
-    "width": (500 + Math.floor(Math.random() * 501)) + "px",
+    "width": (500) + "px",
     "font-size": "25px"
 })
             .print("center at 50vw", "middle at 50vh")
